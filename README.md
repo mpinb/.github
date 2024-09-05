@@ -1,3 +1,4 @@
-# Welcome to the MPINB GitHub page
+# Organization customization files
 
-For employee access, please refer to the corresponding [intranet](https://max.mpg.de/sites/mpi-nb/hpc/Seiten/GitHub.aspx) page.
+This repository contains configruations which customize the *public* organization page.
+
